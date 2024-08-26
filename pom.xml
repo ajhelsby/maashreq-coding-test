@@ -25,7 +25,7 @@
         <maven.checkstyle.version>3.4.0</maven.checkstyle.version>
         <springdoc.version>1.7.0</springdoc.version>
         <nimbus-jose-jwt.version>9.40</nimbus-jose-jwt.version>
-        <passay.version>1.6.4</passay.version>
+        <passay.version>1.6.5</passay.version>
         <spotbugs.version>4.8.6</spotbugs.version>
         <spring-dotenv.version>2.5.4</spring-dotenv.version>
         <google-java-format.version>1.23.0</google-java-format.version>
